@@ -106,6 +106,29 @@ The database is mocked using JavaScript and doesn't require a real database conn
 - Interactive hover effects
 - Modern card layouts
 
+## 💡 AI Tool Usage Acknowledgement
+For this project, I explored and utilized Cursor, an AI-powered code editor built for modern web development. It proved to be an incredibly valuable tool throughout the assignment.
+
+🔍 What I learned from using Cursor:
+How to integrate AI seamlessly into the development workflow, without compromising control over logic or design.
+
+The power of real-time, context-aware AI suggestions that adapt based on the structure and intent of my code.
+
+How Cursor can serve as a pair programmer, helping resolve bugs, refactor components, and even optimize layout code without breaking flow.
+
+🚀 Astonishing Benefits I Experienced:
+Instant fixes for Tailwind errors and intelligent utility suggestions that saved hours of manual trial-and-error.
+
+Fast component generation using natural language prompts, drastically reducing boilerplate time.
+
+Autocompletion for complex structures like nested layouts, form handling, and animation sequences, especially with Framer Motion.
+
+Code explanation and suggestions that improved my understanding of TypeScript typings and Next.js routing nuances.
+
+Overall, Cursor accelerated my development speed while teaching me cleaner, scalable patterns for building a Gen Z-focused UI.
+
+Using Cursor not only boosted my productivity, but also helped me write better code, faster — and with greater confidence.
+
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
