@@ -1,0 +1,6 @@
+{
+  "/api/persona/route": "app/api/persona/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/persona/page": "app/persona/page.js"
+}
