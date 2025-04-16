@@ -106,10 +106,6 @@ The database is mocked using JavaScript and doesn't require a real database conn
 - Interactive hover effects
 - Modern card layouts
 
-## 📸 Screenshots
-
-[Add your screenshots here]
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
