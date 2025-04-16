@@ -110,11 +110,11 @@ The database is mocked using JavaScript and doesn't require a real database conn
 For this project, I explored and utilized Cursor — an AI-powered code editor designed for modern web development. It proved to be an incredibly valuable tool throughout the assignment.
 
 🔍 What I Learned from Using Cursor
-Seamless integration of AI into the development workflow, without compromising logic or design control.
+-Seamless integration of AI into the development workflow, without compromising logic or design control.
 
-The power of real-time, context-aware AI suggestions that adapt based on my code's structure and intent.
+-The power of real-time, context-aware AI suggestions that adapt based on my code's structure and intent.
 
-How Cursor acts as a pair programmer, helping resolve bugs, refactor components, and optimize layout code — all without breaking flow.
+-How Cursor acts as a pair programmer, helping resolve bugs, refactor components, and optimize layout code — all without breaking flow.
 
 ⚡️ Benefits I Experienced
 💡 Instant fixes for Tailwind CSS errors and intelligent utility suggestions — saving hours of manual debugging.
@@ -123,17 +123,17 @@ How Cursor acts as a pair programmer, helping resolve bugs, refactor components,
 
 🧩 Autocompletion for complex structures like:
 
-Nested layouts
+-Nested layouts
 
-Form handling
+-Form handling
 
 Animation sequences (especially with Framer Motion)
 
 📘 In-depth code explanations and suggestions — helped deepen my understanding of:
 
-TypeScript typings
+-TypeScript typings
 
-Next.js routing nuances
+-Next.js routing nuances
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
