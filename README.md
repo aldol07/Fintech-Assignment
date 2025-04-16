@@ -107,28 +107,33 @@ The database is mocked using JavaScript and doesn't require a real database conn
 - Modern card layouts
 
 ## 💡 AI Tool Usage Acknowledgement
-For this project, I explored and utilized Cursor, an AI-powered code editor built for modern web development. It proved to be an incredibly valuable tool throughout the assignment.
+For this project, I explored and utilized Cursor — an AI-powered code editor designed for modern web development. It proved to be an incredibly valuable tool throughout the assignment.
 
-🔍 What I learned from using Cursor:
-How to integrate AI seamlessly into the development workflow, without compromising control over logic or design.
+🔍 What I Learned from Using Cursor
+Seamless integration of AI into the development workflow, without compromising logic or design control.
 
-The power of real-time, context-aware AI suggestions that adapt based on the structure and intent of my code.
+The power of real-time, context-aware AI suggestions that adapt based on my code's structure and intent.
 
-How Cursor can serve as a pair programmer, helping resolve bugs, refactor components, and even optimize layout code without breaking flow.
+How Cursor acts as a pair programmer, helping resolve bugs, refactor components, and optimize layout code — all without breaking flow.
 
-🚀 Astonishing Benefits I Experienced:
-Instant fixes for Tailwind errors and intelligent utility suggestions that saved hours of manual trial-and-error.
+⚡️ Benefits I Experienced
+💡 Instant fixes for Tailwind CSS errors and intelligent utility suggestions — saving hours of manual debugging.
 
-Fast component generation using natural language prompts, drastically reducing boilerplate time.
+⚙️ Fast component generation using natural language prompts — drastically reducing boilerplate and setup time.
 
-Autocompletion for complex structures like nested layouts, form handling, and animation sequences, especially with Framer Motion.
+🧩 Autocompletion for complex structures like:
 
-Code explanation and suggestions that improved my understanding of TypeScript typings and Next.js routing nuances.
+Nested layouts
 
-Overall, Cursor accelerated my development speed while teaching me cleaner, scalable patterns for building a Gen Z-focused UI.
+Form handling
 
-Using Cursor not only boosted my productivity, but also helped me write better code, faster — and with greater confidence.
+Animation sequences (especially with Framer Motion)
 
+📘 In-depth code explanations and suggestions — helped deepen my understanding of:
+
+TypeScript typings
+
+Next.js routing nuances
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
